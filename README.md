@@ -2,10 +2,7 @@
 
 A lightweight **Order Bot** built with **Panel** and OpenAI’s **Responses API**.
 
-> 🏷️ The goal of this project is **not** to provide a production-ready chatbot,  
-> but to demonstrate **clear, minimal code snippets** for building conversational flows in **specific scenarios**.
-
----
+The goal of this project is not to provide a production-ready chatbot, but to demonstrate clear, minimal code snippets for building conversational flows in specific scenarios.
 
 ## Setup (Conda)
 
@@ -21,8 +18,6 @@ Edit `.env`:
 OPENAI_API_KEY=your_openai_api_key_here
 ```
 
----
-
 ## Run
 
 Open the notebook and run all cells:
@@ -33,9 +28,6 @@ jupyter lab
 
 Then open `main.ipynb`.
 
----
-
 ## License
 
 MIT
-
